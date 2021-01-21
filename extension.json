@@ -1,0 +1,8 @@
+{
+  "id": "library-items-selector",
+  "name": "library-items-selector",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": [
+    "Symbol"
+  ]
+}
